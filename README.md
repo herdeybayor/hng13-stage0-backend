@@ -92,7 +92,7 @@ Returns profile information with a random cat fact.
 ```
 
 ## Deployment
-This project is deployed on PXXL App.
+This project is deployed on Railway.
 
 ## Testing
 
@@ -118,3 +118,4 @@ curl -I http://localhost:5131/me
 ## License
 
 This project is part of the HNG13 Backend Developer Track.
+
